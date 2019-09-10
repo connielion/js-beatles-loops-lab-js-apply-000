@@ -20,5 +20,10 @@ const johnLennonFacts = factsArr => {
   return res;
 }
 
-const
+const iLoveTheBeatles = num => {
+  const arr = [];
+  
+  do
+  return arr;
+}
 

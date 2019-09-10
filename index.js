@@ -15,6 +15,7 @@ const johnLennonFacts = factsArr => {
   while(i<factsArr.length){
     let fact = factsArr[i]+'!!!';
     res.push(fact);
+    i+=1;
   }
   return res;
 }

@@ -26,7 +26,7 @@ const iLoveTheBeatles = num => {
   let i = num;
   
   do {
-   arr.push()
+   arr.push("I love the Beatles!");
    i++;
   }
   while (i < 15);

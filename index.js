@@ -26,10 +26,11 @@ const iLoveTheBeatles = num => {
   let i = num;
   
   do {
-  
+   arr.push()
    i++;
   }
-while (i < 15);
+  while (i < 15);
+  
   return arr;
 }
 

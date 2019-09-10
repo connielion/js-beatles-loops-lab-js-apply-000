@@ -13,8 +13,10 @@ const johnLennonFacts = factsArr => {
   let i = 0;
   const res = [];
   while(i<factsArr.length){
-    let fact = factsArr[i];
-    res.push(fact+'!!!');
+    let fact = factsArr[i]+'!!!';
+    res.push(fact);
   }
   return res;
 }
+
+
